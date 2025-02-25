@@ -12,3 +12,4 @@ Grade char(3)
 # Describe the STUDENT table;
 desc STUDENT;
  V
+DELETE SQL-Assignments-Collection
