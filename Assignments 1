@@ -1,15 +1,4 @@
-#syntax : CREATE DATABASE School;
-create database SCHOOL;
-USE SCHOOL;
 
-#syntax :CREATE TABLE ;
-create table STUDENT (
-Roll_No INT ,
-Name varchar(30),
-Marks INT,
-Grade char(3)
-);
-# Describe the STUDENT table;
-desc STUDENT;
- V
-DELETE SQL-Assignments-Collection
+git rm SQL-Assignments-Collection
+git commit -m "ASSIGNMENTS1"
+git push
